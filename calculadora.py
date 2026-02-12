@@ -45,12 +45,13 @@ while op > 1 or op < 5:
             exit()
         case _:
             print("Opcion no valida, intente de nuevo")
+   
             
     
 
 
     
 
-
+print("Saliendo...")
    
     
