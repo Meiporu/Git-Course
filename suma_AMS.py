@@ -1,7 +1,7 @@
 menu= """Menu de opciones  
     1. Suma 
     2. Resta
-    3. Salir"""
+    3. Salir\n"""
 
 op= int(input(menu))
 
