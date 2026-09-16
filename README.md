@@ -1,4 +1,4 @@
-# Git-Course
+# Git-Course - Auria Technologies 25/26
 
 # Introducción
 Construir código es muy tedioso, sobretodo cuando te toca refactorizar o quieres ver una bversión anterior, por ello Linux Torvald creo aparte de las bases de los primeros SO UNIX (still going),un sistema de control de codigo fuente denominado `git`.
